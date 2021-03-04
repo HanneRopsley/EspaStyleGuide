@@ -4,9 +4,20 @@
 }
 
 body {
-    padding-top: 8em;
+    padding-top: 10em;
 }
 
+h1 {
+    font-size:3.5vw
+}
+
+h3 {
+    font-size:2vw
+}
+
+p {
+    font-size:1vw
+}
 
 /*header*/
 
@@ -48,6 +59,7 @@ hr {
 
 .colorDiv {
     display: inline-block;
+    vertical-align: middle;
     width: 30%;
     height: 5em;
     border: 0.1em solid black;
